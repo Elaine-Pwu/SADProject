@@ -1,0 +1,13 @@
+getWallet
+MRT redline 30 10
+getWallet
+Bus busG1 10 25 true
+getWallet
+Eat sandwich 28 
+getWallet
+Eat chickenBreast 72
+getWallet
+Bus busB18 25 10 false
+getWallet
+MRT redline 30 10
+getWallet
